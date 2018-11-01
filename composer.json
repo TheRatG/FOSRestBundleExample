@@ -1,0 +1,22 @@
+{
+    "name": "therat/fos-rest-bundle-example",
+    "description": "FOSRestBundle project example.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vladimir Pak",
+            "email": "theratg@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.1",
+        "symfony/flex": "^1.1"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+}
